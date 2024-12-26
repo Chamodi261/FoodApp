@@ -1,0 +1,10 @@
+
+.section.cheifs{
+    display: block;
+    .top-cheif-container{
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 21fr));
+      grid-gap: 1.8em;
+      margin-top: 3em;
+    }
+  }
