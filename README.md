@@ -24,65 +24,6 @@ This project is designed to provide an interactive, user-friendly, and fully res
 - **JavaScript** ✨
 - **Hooks**: `useState` and `useEffect`
 
-## 🚀 Getting Started
-
-Follow these steps to get the app up and running on your local machine:
-
-### Prerequisites
-
-Make sure you have the following installed:
-
-- [Node.js](https://nodejs.org/) (v16 or later recommended)
-- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
-
-### Installation
-
-1. **Clone the repository**:
-
-   ```bash
-   git clone https://github.com/yourusername/Responsive-Recipe-App.git
-   cd Responsive-Recipe-App
-   ```
-
-2. **Install dependencies**:
-
-   ```bash
-   npm install
-   # or
-   yarn install
-   ```
-
-3. **Run the development server**:
-
-   ```bash
-   npm start
-   # or
-   yarn start
-   ```
-
-4. **Open the app**:
-
-   Navigate to `http://localhost:3000` in your browser.
-
-## 📂 Project Structure
-
-```
-Responsive-Recipe-App/
-├── public/
-├── src/
-│   ├── components/
-│   │   ├── Header.js
-│   │   ├── Footer.js
-│   ├── pages/
-│   │   ├── HomePage.js
-│   │   ├── RecipesPage.js
-│   │   ├── SettingsPage.js
-│   ├── App.js
-│   ├── index.js
-│   ├── App.css
-├── package.json
-```
-
 ## ✨ Features Breakdown
 
 ### 🏠 Home Page
@@ -105,33 +46,18 @@ Responsive-Recipe-App/
 ## 🖼️ Screenshots
 
 ### Home Page
-![Home Page](https://via.placeholder.com/800x400)
+![image](https://github.com/user-attachments/assets/3dbd0127-7b34-440f-b207-e2dd679cd8f9)
+
+![image](https://github.com/user-attachments/assets/d86080e7-7c8c-4673-a86d-a5da6d5342b7)
+
+
 
 ### Recipes Page
-![Recipes Page](https://via.placeholder.com/800x400)
+![image](https://github.com/user-attachments/assets/1d6516d5-31a9-4e77-9040-21a0f3f7b6de)
+
 
 ### Settings Page
-![Settings Page](https://via.placeholder.com/800x400)
+![image](https://github.com/user-attachments/assets/7983d01b-73f1-4529-b784-4ad7e7e4cac4)
 
-## 🤝 Contributing
-
-Contributions are welcome! If you'd like to contribute:
-
-1. Fork the repository.
-2. Create a new branch for your feature: `git checkout -b feature-name`.
-3. Commit your changes: `git commit -m 'Add some feature'`.
-4. Push to the branch: `git push origin feature-name`.
-5. Open a Pull Request.
-
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## 🌟 Acknowledgements
-
-- Thanks to the amazing React community for providing great resources and support.
-- Special thanks to [Your Inspiration](https://yourinspirationlink.com) for inspiration!
-
----
 
 Happy coding! ✨
