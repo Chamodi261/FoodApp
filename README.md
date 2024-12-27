@@ -1,9 +1,9 @@
-# 🍽️ Responsive Recipe App
+# 🍽️ FooDIES HUB App
 
 Welcome to the **Responsive Food App**! This web application is built using **React**, leveraging **React Router DOM**, and React's **useState** and **useEffect** hooks. The application consists of three primary pages:
 
 - 🏠 **Home Page**
-- 📋 **Recipes Page**
+- 📋 **Recipies Page**
 - ⚙️ **Settings Page**
 
 This project is designed to provide an interactive, user-friendly, and fully responsive experience. 🌟
@@ -32,7 +32,7 @@ This project is designed to provide an interactive, user-friendly, and fully res
 - Highlights the primary functionalities of the app.
 - Displays a section showcasing **Top Chefs** with brief details about their specialties and achievements.
 
-### 📋 Recipes Page
+### 📋 Recipies Page
 
 - Displays a list of recipes dynamically fetched using `useEffect`.
 - Each recipe includes details about its **own chef**, providing insights into the creator.
